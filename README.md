@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Steps to run the Reactjs:
+
+1. Clone the code in your local system with below command:
+   git clone https://github.com/rajatmehra634/chatgptUI.git
+
 ### `npm start`
 
 Runs the app in the development mode.\
